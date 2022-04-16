@@ -1,1 +1,3 @@
-![alt text](https://github.com/convair36/my-projects/blob/main/%D0%94%D0%BE%D0%BD%D0%BE%D1%80%D0%BE%D1%81%D1%82%D0%B2%D0%BE_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%B8_%D0%A1%D0%9D%D0%93/%D0%B0%D0%B0%D0%B0.png "Описание будет тут")​
+![Топ 10 субъектов по доле доноров от общего количества населения ](https://github.com/convair36/my-projects/blob/main/%D0%94%D0%BE%D0%BD%D0%BE%D1%80%D0%BE%D1%81%D1%82%D0%B2%D0%BE_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%B8_%D0%A1%D0%9D%D0%93/%D0%B0%D0%B0%D0%B0.png "Топ 10 субъектов по доле доноров от общего количества населения")​
+
+![Худшие 10 субъектов по доле доноров от общего количества населения](https://github.com/convair36/my-projects/blob/main/%D0%94%D0%BE%D0%BD%D0%BE%D1%80%D0%BE%D1%81%D1%82%D0%B2%D0%BE_%D0%B2_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_%D0%B8_%D0%A1%D0%9D%D0%93/index.png, "Худшие 10 субъектов по доле доноров от общего количества населения")
